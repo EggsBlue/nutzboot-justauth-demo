@@ -1,4 +1,4 @@
-1# 简介
+# 简介
 
 此 demo 主要为了演示 NutzBoot 如何通过 JustAuth 快速集成第三方平台的登录。
 
