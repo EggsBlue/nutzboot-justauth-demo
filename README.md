@@ -43,7 +43,7 @@ mvn clean package nutzboot:shade -Dmaven.test.skip=true
 
 ## 相关资源
 
-* Nutzboot开源地址: https://gitee.com/nutz/nutzboot(给颗星啊啊啊啊啊)
+* Nutzboot开源地址: https://gitee.com/nutz/nutzboot  (给颗星啊啊啊啊啊)
 * 论坛: https://nutz.cn
 * 官网: https://nutz.io
 * 一键生成NB的项目: https://get.nutz.io
